@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pandas
+openpyxl
+python-pptx
+beautifulsoup4
+faiss-cpu
+sentence-transformers
+google-generativeai
