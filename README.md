@@ -42,5 +42,3 @@ Shows how the chatbot responds after a question is asked.
 
 ![QnA Chat](screenshots/qna_flow.png)
 
-> 📌 Place your screenshots in the `/screenshots` folder and ensure they are named as above or update the filenames accordingly.
-
